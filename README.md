@@ -1,4 +1,6 @@
-### Hi there 👋
+# ![Coder Emoji](https://github.com/images/emoji/unicode/1f4bb.png) Engineer | Andreas Fricke Petersen
+
+
 
 <!--
 **AndreasKPetersen/AndreasKPetersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
