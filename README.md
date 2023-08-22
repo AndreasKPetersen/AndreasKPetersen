@@ -23,17 +23,15 @@ I am a mechanical engineer with a deep interest in software development, data sc
 <img href="https://en.wikipedia.org/wiki/SQLite" align="left" alt="SQLite" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
+#
+
 ### Learning Goals
 
 <img align="left" alt="Csharp" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="dotnetcore" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />       
 
-<br>
-
-<br>
-
-<br>
+---
 
 ## 🌱 Data Science
 
@@ -48,7 +46,7 @@ I am a mechanical engineer with a deep interest in software development, data sc
 <img align="left" alt="Keras" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
 <img href="https://www.kaggle.com/" align="left" alt="Kaggle" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />
 
-<hr>
+---
 
 ## 📊 Stats
 
