@@ -33,6 +33,14 @@ I am a mechanical engineer with a deep interest in software development, data sc
 
 #
 
+#
+
+#
+
+#
+
+#
+
 ## 🌱 Data Science
 
 <img align="left" alt="MATLAB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
