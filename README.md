@@ -11,8 +11,8 @@ I am a mechanical engineer with a deep interest in software development, data sc
     <li>CS50: Introduction to Computer Science | Harvard University</li>
     <li>Full Stack open: Deep Dive Into Modern Web Development | University of Helsinki</li>
     <li><a href="https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/">Foundational C# with Microsoft</a> | Microsoft & freeCodeCamp | <a href="https://www.freecodecamp.org/certification/fcc9cf4e337-7b66-461a-939d-c33b43f9fb92/foundational-c-sharp-with-microsoft">Certificate</a></li>
-    <li>Machine Learning Specialization | DeepLearning.AI & Stanford Online</li>
-    <li>Deep Learning Specialization | DeepLearning.AI & Stanford Online</li>
+    <li><a href="https://www.coursera.org/specializations/machine-learning-introduction">Machine Learning Specialization</a> | DeepLearning.AI & Stanford Online | <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/5F3GJV3GF36M">Certificate</a></li>
+    <li><a href="https://www.coursera.org/specializations/deep-learning">Deep Learning Specialization</a> | DeepLearning.AI & Stanford Online | <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/DAMX7ZWMJHCN">Certificate</a></li>
   </ul>
   This enlightening experience has fueled my motivation, igniting a strong desire to become even more deeply involved in software development and data science. Now, my goal is to expand my horizons by learning C#/.NET development and Java, further enriching my journey in the realm of software development.
 </details>
