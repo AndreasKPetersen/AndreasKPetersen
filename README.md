@@ -2,11 +2,11 @@
 
 **`Engineer (Software Developer/Data Scientist)`**
 
-I am a mechanical engineer with a deep interest in software development, data science, and machine learning. My foundation in mathematics and physics equips me with a robust analytical toolkit, which I leverage to navigate complex challenges in the realm of technology. With an inherent passion for innovation and problem-solving, I adhere to a first principles approach, breaking down intricate problems into manageable components. I am committed to continually expanding my skill set and contributing to the intersection of engineering and technology.
+I am a mechanical engineer with a deep interest in software development, data science, and cyber security. My foundation in mathematics and physics equips me with a robust analytical toolkit, which I leverage to navigate complex challenges in the realm of technology. With an inherent passion for innovation and problem-solving, I adhere to a first principles approach, breaking down intricate problems into manageable components. I am committed to continually expanding my skill set and contributing to the intersection of engineering and technology.
 
 <details>
  <summary><h3>👨‍💻 My coding journey</h3></summary>
-   My journey into coding began while I was studying engineering. During this time, I delved into scripting using MATLAB and Python to simulate engineering concepts and physics. Upon graduating in the summer of 2023, I proactively sought out a number of pertinent courses that introduced me to the exciting worlds of software development and data science.
+   My journey into coding began while I was studying engineering. During this time, I delved into scripting using MATLAB and Python to simulate engineering concepts and physics. Upon graduating in the summer of 2023, I proactively sought out a number of pertinent courses that introduced me to the exciting worlds of software development, data science, and cyber security.
   <ul>
     <li><a href="https://cs50.harvard.edu/x/2023/">CS50's Introduction to Computer Science</a> | Harvard University | <a href="https://certificates.cs50.io/5dddb84a-4c2d-4c3f-bab8-e83d6db4af29.pdf?size=letter">Certificate</a></li>
     <li>Full Stack open: Deep Dive Into Modern Web Development | University of Helsinki</li>
